@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "majorVersion": "8"
+    },
+    "command": "java -jar gs-spring-boot-0.1.0.jar",
+    "notes": "Sample Application"
+}
